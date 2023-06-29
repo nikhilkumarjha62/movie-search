@@ -26,4 +26,3 @@ function MovieCard({ Title, Year, imdbID, Type, Poster }) {
 }
 
 export default MovieCard;
-
